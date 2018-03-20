@@ -1,0 +1,14 @@
+@import "ui-variables";
+@import "syntax-variables";
+
+atom-text-editor.editor {
+  .syntax--entity.syntax--name.syntax--struct,
+  .syntax--entity.syntax--name.syntax--interface,
+  .syntax--entity.syntax--name.syntax--extension, {
+    color: @syntax-color-class;
+  }
+
+  .syntax--keyword.syntax--qualifer {
+    color: @syntax-color-attribute;
+  }
+}

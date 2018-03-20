@@ -1,0 +1,14 @@
+{
+  "name": "language-anzen",
+  "version": "0.0.0",
+  "description": "Anzen language support in Atom",
+  "keywords": [
+  ],
+  "repository": "https://github.com/anzen-lang/atom-language-anzen",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

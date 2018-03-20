@@ -1,0 +1,4 @@
+'.source.anzen':
+  'editor':
+    'commentStart': '//'
+    'foldEndPattern': '^\\s*\\}|^\\s*\\]|^\\s*\\)'
